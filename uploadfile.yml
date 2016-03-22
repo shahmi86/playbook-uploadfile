@@ -2,5 +2,5 @@
 - hosts: all
   tasks:
    - name: Upload file for host
-     copy: src=files/1.txt dest=/tmp/1.txt mode=0644
+     copy: src=files/3.txt dest=/tmp/3.txt mode=0644
 
